@@ -1,4 +1,5 @@
 
-pip install requests
-pip install Flask
-pip install jsonify
+
+Flask==0.8
+jsonify==2.6
+requests==0.11.1
