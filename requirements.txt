@@ -1,4 +1,4 @@
-pip insall json
+
 pip install requests
 pip install Flask
 pip install jsonify
